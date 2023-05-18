@@ -22,7 +22,7 @@ export default function StyleComp(props) {
             {props.children}
         </Title>
         <StyledButton>
-            {props.children}
+            버튼
         </StyledButton>
     </div>
   )
